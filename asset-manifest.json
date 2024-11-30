@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EMI-calculation/static/css/main.b7496fff.css",
+    "main.js": "/EMI-calculation/static/js/main.764cbd9e.js",
+    "index.html": "/EMI-calculation/index.html",
+    "main.b7496fff.css.map": "/EMI-calculation/static/css/main.b7496fff.css.map",
+    "main.764cbd9e.js.map": "/EMI-calculation/static/js/main.764cbd9e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7496fff.css",
+    "static/js/main.764cbd9e.js"
+  ]
+}
